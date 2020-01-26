@@ -1,0 +1,40 @@
+{
+	"menu" : [
+		"home", "portfolio", "about us", "contacts"
+	],
+
+	"products" : [
+		{
+			"_id" : 1,
+			"title" : "macbook",
+			"count" : 10,
+			"description" : "really cool stuff",
+			"price" : "1000",
+			"currency" : "$"
+		},
+		{
+			"_id" : 2,
+			"title" : "macbook",
+			"count" : 10,
+			"description" : "really cool stuff",
+			"price" : "2000",
+			"currency" : "$"
+		},
+		{
+			"_id" : 3,
+			"title" : "macbook",
+			"count" : 10,
+			"description" : "really cool stuff",
+			"price" : "3000",
+			"currency" : "$"
+		},
+		{
+			"_id" : 4,
+			"title" : "macbook",
+			"count" : 10,
+			"description" : "really cool stuff",
+			"price" : "4000",
+			"currency" : "$"
+		}
+	]
+}
